@@ -1,0 +1,13 @@
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.exe
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.dll
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.deps.json
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.runtimeconfig.json
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\SqlConfigWeaApp.pdb
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UserData\RND\AZ-204\HelloWebApp\SqlConfigWeaApp\obj\Release\net7.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
